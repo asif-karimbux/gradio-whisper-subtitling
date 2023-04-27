@@ -15,6 +15,7 @@ The app takes an arbitrarty video, extracts the audio as mp3 and then multithrea
 
 ### Executing program
 * python gradio_whisper_video_subtitle_app.py
+* An public interview with Greg is included for you to use
 
 ### Observations
 * Whisper API seems to handle English, French and Spanish subtitling well (not a native speaker but they seem okay). I tried swahili and that didn't work; likely because Whisper doesn't support translation to any languages other than English. 
