@@ -14,7 +14,7 @@ The app takes an arbitrarty video, extracts the audio as mp3 and then multithrea
 * There is some moviepy font magic that requires pointing to an Imagemagick install dir
 
 ### Executing program
-* python gradio_whisper_video_subtitle_app.py
+* ```python gradio_whisper_video_subtitle_app.py```
 * An public interview with Greg is included for you to use
 
 ### Observations
