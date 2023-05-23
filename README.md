@@ -18,7 +18,7 @@ The app takes an arbitrarty video, extracts the audio as mp3 and then multithrea
 * An public interview with Greg is included for you to use
 
 ### Observations
-* Whisper API seems to handle English, French and Spanish subtitling well (not a native speaker but they seem okay). I tried swahili and that didn't work; likely because Whisper doesn't support translation to any languages other than English. 
+* Whisper API seems to handle English, French and Spanish subtitling well (not a native speaker but they seem okay). 
 * Getting moviepy to add fonts is a little tricky
   * Install ImageMagick: ```brew install imagemagick```
   * Install Ghostscript: ```brew install ghostscript```
