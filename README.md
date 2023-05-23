@@ -9,7 +9,7 @@ The app takes an arbitrarty video, extracts the audio as mp3 and then multithrea
 ### Installing
 * Clone this repo
 * Ensure your python environment has the necessary dependencies
-  * ImageMagick and Ghostscript are the non-obvious ones
+  * ImageMagick and Ghostscript
 * Ensure you are exporting an 'OPENAI_API_KEY'
 * Moviepy fonts require pointing to an Imagemagick install dir
 
