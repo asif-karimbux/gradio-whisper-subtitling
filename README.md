@@ -11,7 +11,7 @@ The app takes an arbitrarty video, extracts the audio as mp3 and then multithrea
 * Ensure your python environment has the necessary dependencies
   * ImageMagick and Ghostscript are the non-obvious ones
 * Ensure you are exporting an 'OPENAI_API_KEY'
-* There is some moviepy font magic that requires pointing to an Imagemagick install dir
+* Moviepy fonts require pointing to an Imagemagick install dir
 
 ### Executing program
 * ```python gradio_whisper_video_subtitle_app.py```
